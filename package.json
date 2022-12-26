@@ -1,0 +1,17 @@
+{
+  "name": "autotests",
+  "version": "1.0.0",
+  "description": "testSite",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e"
+  ],
+  "author": "RZ",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
